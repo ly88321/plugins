@@ -11,6 +11,8 @@ TRX(USDT): THYrLLaMpb7zp5ZZXq72XGsgvLqnbdk821
 
 [![Matrix: Support](https://img.shields.io/badge/Support_&_Feedack-deeppink?style=for-the-badge&label=Matrix+Chat)](https://matrix.to/#/#router-patch:bladerunn.in)
 
+## Usage
+
 ```
 Usage: python build.py <plugin_source_dir> <output_dir>
 ```
